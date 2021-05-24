@@ -27,6 +27,9 @@ php artisan config:cache
 # Clear and cache views
 php artisan view:cache
 
+# Clear and cache events
+php artisan event:cache
+
 # Install node modules
 npm i
 
